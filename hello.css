@@ -1,0 +1,45 @@
+.main{
+	width:100;
+	border:2px solid #000;
+	margin:2px;
+	display:flex;
+	flex-wrap:wrap;
+
+}
+.first{
+	width:100%;
+	border:2px solid #000;
+	margin:2px;
+	display:flex;
+	background-color:red;
+	flex-wrap:wrap;
+}
+img{
+	width:200px;
+	border:2px solid #000;
+	
+}
+.left{
+	 background-color:pink;
+	 width:20%;
+	 border:2px solid #000;
+	 margin:2px;
+}
+.right{
+	background-color:orange;
+	width:80%;
+	border:2px solid #000;
+	margin:2px;
+
+}
+#b{
+	color:green;
+	font-size:20px;
+	font-style:italic;
+
+}
+table,td,tr{
+	border:2px solid #000;
+	border-collapse:collapse;
+	margin-left:15p;
+}

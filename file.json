@@ -1,0 +1,50 @@
+    
+    {
+       "basicdetails":{
+		"image":"image.jpeg",
+		"name":"k.pravallika",
+		"email":"kollipravalika3@gmail.com",
+		"phone":"9121393556",
+		"address":"2-96,cherukur,prakasam(district)"
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"vignan nirula college",
+			"percentage":"70%"
+		},
+        {
+        	"course":"intermediate(MPC)",
+		   "college":"nri institute of technology",
+			"percentage":"91.8%"
+		},
+		{
+
+			"course":"ssc(general)",
+			"school":"siddhardha high school",
+			"percentage":"78%"
+		}
+	],
+"skills":[
+{
+	"name":"operating systems",
+	"value":"Windows,Linux,MAC"
+},
+{
+	"name":"programming languages",
+	"value":"c,c++,java,python"
+}
+],
+"carrier":{
+	 "software engineer":"I want to become a software engineer and to become a software engineer i have lot of knowledge in coding"
+},
+"Achievements":[
+ "I got first prize in chess in my college.",
+  "I got second prize in tech summit in mumbai.",
+  "I got first prize in power point presentation."
+],
+
+"description":[
+	"Iam going to college"
+]
+}
